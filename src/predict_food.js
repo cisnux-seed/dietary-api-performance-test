@@ -23,12 +23,12 @@ export const options = {
             vus: 10,
             iterations: 100,
         },
-        // predictBy15VuConcurrently: {
-        //     exec: 'predictFood',
-        //     executor: 'per-vu-iterations',
-        //     vus: 15,
-        //     iterations: 50,
-        // },
+        predictBy15VuConcurrently: {
+            exec: 'predictFood',
+            executor: 'per-vu-iterations',
+            vus: 15,
+            iterations: 50,
+        },
     }
 };
 
