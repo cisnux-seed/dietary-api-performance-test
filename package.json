@@ -1,0 +1,18 @@
+{
+  "name": "dietary-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fajrarisqulla",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/k6": "^0.51.0"
+  },
+  "dependencies": {
+    "k6": "^0.0.0"
+  }
+}
